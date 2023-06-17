@@ -14,7 +14,7 @@ class Momentos extends StatelessWidget {
       momento(
         "Sung Jin-Woo Vs Igris", 
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64djaeGjMJUQDpnh2TtDPDpJ3C0AP25WRjQ&usqp=CAU", 
-        "Sung Jin-woo se encuentra atravesando una quest(mision) dada por el sistema para elegir su clase y desbloquear habilidades de clase y lucha contra el enemigo más fuerte que habia encotnrado hasta el momento.", 
+        "Jinwoo VS Igris es una confrontación épica entre un poderoso cazador y su futura mas leal sombra. Jinwoo, con su capacidad para subir de nivel y su inteligencia táctica, busca superar a Igris, quien posee habilidades y ferocidad excepcionales. La batalla es una prueba de fuerza, habilidad y determinación, y el resultado determinará qué ser se alzará como el vencedor supremo.", 
         "Igris.mp4"),
       momento(
         "Raid Isla JeJu", 
@@ -24,7 +24,7 @@ class Momentos extends StatelessWidget {
       momento(
         "Sung jin-woo vs Anteres (Monarca Dragon)", 
         "https://a-static.besthdwallpaper.com/solo-leveling-shadow-monarch-sung-jin-woo-vs-dragon-monarch-antares-wallpaper-2880x1620-88323_52.jpg", 
-        "Sung jin-woo lucha contra el monarca mas fuerte (El monarca de la destruccion), desatando el poder heredado por Ashborn el antiguo monarca de las sombras.", 
+        "Sung jin-woo lucha contra el monarca mas fuerte (El monarca de la destruccion), desatando el poder heredado por Ashborn el antiguo monarca de las sombras. Es una pelea que parece ser la final y en la que el protagonista toma una decision que da vuelta a la trama.", 
         "Antares.mp4")
     ];
 
