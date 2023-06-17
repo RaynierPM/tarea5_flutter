@@ -27,8 +27,9 @@ class Contratame extends StatelessWidget {
           Container(
               margin: const EdgeInsets.only(bottom: 15.0),
               decoration: const BoxDecoration(
+                shape: BoxShape.circle,
                 boxShadow: [
-                  BoxShadow(color: Colors.white, blurRadius: 7,spreadRadius: 0 ,blurStyle: BlurStyle.normal, offset: Offset(3, 5))
+                  BoxShadow(color: Colors.white, blurRadius: 7,spreadRadius: 10,blurStyle: BlurStyle.normal, offset: Offset(3, 5))
                 ]
               ),
               child: Image.asset("assets/ray.png", width: 400, height: 400, fit: BoxFit.fitHeight,),
